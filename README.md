@@ -1,1 +1,0 @@
-# vRealize-Automation-property-definition-and-property-group-tool-kit
